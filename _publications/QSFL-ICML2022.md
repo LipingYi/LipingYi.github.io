@@ -3,6 +3,6 @@ title: "QSFL: A Two-Level Uplink Communication Optimization Framework for Federa
 collection: publications
 date: 2022-07-15
 venue: 'Proc. the 39th International Conference on Machine Learning (ICML)'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-61609-0_60'
+paperurl: 'https://proceedings.mlr.press/v162/yi22a.html'
 ---
 **Liping Yi**, Gang Wang, Xiaoguang Liu
