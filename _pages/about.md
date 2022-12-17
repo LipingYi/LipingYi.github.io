@@ -14,7 +14,7 @@ I’m interested in tackling challenging issues in Federated Learning, such as r
 
 Education
 ======
-2021 – 2025 Ph.D., Nankai University, Tianjin, China
+2021 – present Ph.D., Nankai University, Tianjin, China
 
 2019 – 2021 M.Sc., Nankai University, Tianjin, China
 
