@@ -9,34 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-Work experience
+Research and Industry Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021: Financial Risk Control Modeling Engineer, Orange Digital Technology, Beĳing, China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: English (CET-6)
+* Coding: Python, java, sql, LATEX, ...
+* Misc.: Academic research on federated learning
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -46,7 +36,7 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -56,4 +46,14 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Conference Services
+  * 2023: ACM Multimedia (MM'23), PC Member
+  * 2023: FL-IJCAI'23 Workshop, PC Member
+  * 2022: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP'23), PC Member
+  * 2022: Association for the Advancement of Artificial Intelligence (AAAI'23), PC Member
+  * 2022: International Conference on Machine Learning (ICML'22), PC Member
+  * 2021: Association for the Advancement of Artificial Intelligence (AAAI'22), PC Member
+
+* Journal Services
+  * 023: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Reviewer
+
