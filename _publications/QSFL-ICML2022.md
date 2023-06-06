@@ -1,5 +1,5 @@
 ---
-title: "3.QSFL: A Two-Level Uplink Communication Optimization Framework for Federated Learning"
+title: "QSFL: A Two-Level Uplink Communication Optimization Framework for Federated Learning"
 collection: publications
 date: 2022-07-15
 venue: 'Proc. of the 39th International Conference on Machine Learning (ICML)'
