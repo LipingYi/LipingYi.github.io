@@ -42,7 +42,7 @@ Honors
   
 Awards
 ======
-* 2023: Third Prize of FinancialCryptography, suzhou, China
+* 2023: Third Prize of FinancialCryptography, Suzhou, China
 
 Skills
 ======
