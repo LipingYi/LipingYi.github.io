@@ -1,5 +1,5 @@
 ---
-title: "SU-Net: An Efficient Encoder-Decoder Model of Federated Learning for Brain Tumor Segmentation"
+title: "2.SU-Net: An Efficient Encoder-Decoder Model of Federated Learning for Brain Tumor Segmentation"
 collection: publications
 date: 2020-10-14
 venue: 'Proc. of the 29th International Conference on Artificial Neural Networks (ICANN)'
