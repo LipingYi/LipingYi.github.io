@@ -1,5 +1,5 @@
 ---
-title: "1.Two-Erasure Codes from 3-Plexes"
+title: "Two-Erasure Codes from 3-Plexes"
 collection: publications
 permalink: /publication/3-Plex-NPC2019
 
