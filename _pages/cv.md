@@ -19,32 +19,7 @@ Research and Industry Experience
 ======
 * 2021: Financial Risk Control Modeling Engineer, Orange Digital Technology, Beĳing, China
 
-  
-Skills
-======
-* Languages: English (CET-6)
-* Coding: Python, java, sql, LATEX, ...
-* Misc.: Academic research on federated learning
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Service and Leadership
 ======
 * Conference Services
   * 2023: ACM Multimedia (MM'23), PC Member
@@ -55,5 +30,50 @@ Service and leadership
   * 2021: Association for the Advancement of Artificial Intelligence (AAAI'22), PC Member
 
 * Journal Services
-  * 023: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Reviewer
+  * 2023: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Reviewer
+
+Honors
+======
+* 2022: Second-Class Academic Scholarship, NKU
+* 2021: Third-Class Academic Scholarship, NKU
+* 2020: Third-Class Academic Scholarship, NKU
+* 2019: Scholarships for new graduate students, NKU
+* 2018: China National Scholarship for undergraduate students, QUST
+  
+Awards
+======
+* 2023: Third Prize of FinancialCryptography, suzhou, China
+
+Skills
+======
+* Languages: English (CET-6)
+* Coding: Python, java, sql, LATEX, ...
+* Misc.: Academic research on federated learning
+
+<!-- Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+  
+<!-- Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul> -->
+  
+Teaching
+======
+* 2021 Fall: Guest Lecturer at Network Storage Systems, NKU, "The Basic of Erasure Codes"
+* 2021 Spring: Teaching Assistant for The Programming Language C++, NKU
+* 2021 Fall: Guest Lecturer at Distributed Operating Systems, NKU, "The Concept and Applications of Federated Learning"
+* 2019 Fall: Guest Lecturer at Network Storage Systems, NKU, "The Basic of Erasure Codes"
+  
+<!--  Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+  
+
 
