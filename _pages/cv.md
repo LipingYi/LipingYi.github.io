@@ -26,13 +26,13 @@ Skills
 * Coding: Python, java, sql, LATEX, ...
 * Misc.: Academic research on federated learning
 
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
