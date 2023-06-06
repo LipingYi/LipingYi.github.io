@@ -1,7 +1,7 @@
 ---
 title: "Two-Erasure Codes from 3-Plexes"
 collection: publications
-<!-- permalink: /publication/ -->
+permalink: /publication/3-Plex-NPC2019
 
 date: 2019-08-24
 venue: 'Proc. of the 16th IFIP International Conference on Network and Parallel Computing (NPC)'
