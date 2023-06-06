@@ -20,5 +20,18 @@ Education
 + 2019 – 2021: M.Sc., Nankai University, Tianjin, China
 + 2015 – 2019: B.Sc., Qingdao University of Science and Technology, Qingdao, China
 
+Conference Services
+======
++ 2023: ACM Multimedia (MM'23), PC Member
++ 2023: FL-IJCAI'23 Workshop, PC Member
++ 2022: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP'23), PC Member
++ 2022: Association for the Advancement of Artificial Intelligence (AAAI'23), PC Member
++ 2022: International Conference on Machine Learning (ICML'22), PC Member
++ 2021: Association for the Advancement of Artificial Intelligence (AAAI'22), PC Member
+
+Journal Services
+======
++ 2023: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Reviewer
+
  
  
