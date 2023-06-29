@@ -13,7 +13,7 @@ redirect_from:
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* Ph.D. in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Research and Industry Experience
 ======
@@ -34,6 +34,8 @@ Service and Leadership
 
 Honors
 ======
+* 2023: Shiing-Shen Chern Scholarship for Academic Newcomers - High-level Research Paper Award Program, NKU
+* 2023: SK Award for Outstanding Research in Artificial Intelligence, NKU
 * 2022: Second-Class Academic Scholarship, NKU
 * 2021: Third-Class Academic Scholarship, NKU
 * 2020: Third-Class Academic Scholarship, NKU
@@ -47,7 +49,7 @@ Awards
 Skills
 ======
 * Languages: English (CET-6)
-* Coding: Python, java, sql, LATEX, ...
+* Coding: Python, Pytorch, LATEX, ...
 * Misc.: Academic research on federated learning
 
 <!-- Publications
