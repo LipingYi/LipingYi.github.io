@@ -3,7 +3,7 @@ title: "FedRRA: Reputation-Aware Robust Federated Learning against Poisoning Att
 collection: publications
 date: 2023-06-18
 venue: 'Proc. of IEEE International Joint Conference on Neural Network (IJCNN)'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/10191556'
 ---
 **Liping Yi**, Xiaorong Shi, Wenrui Wang, Gang Wang, Xiaoguang Liu
 
