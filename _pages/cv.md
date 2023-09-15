@@ -22,6 +22,7 @@ Research and Industry Experience
 Service and Leadership
 ======
 * Conference Services
+  * 2023: FL@FM-NeurIPS'23 Workshop, PC Member
   * 2023: Association for the Advancement of Artificial Intelligence (AAAI'24), PC Member
   * 2023: ACM Multimedia (MM'23), PC Member
   * 2023: FL-IJCAI'23 Workshop, PC Member
