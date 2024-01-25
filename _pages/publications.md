@@ -1,7 +1,14 @@
 ---
 layout: archive
 title: "Conference Publications"
-permalink: /publications/
+permalink: /publications/Journal
+author_profile: true
+---
+
+---
+layout: archive
+title: "Conference Publications"
+permalink: /publications/Conference
 author_profile: true
 ---
 
