@@ -22,3 +22,7 @@ Conference Publications
 
 Journal Publications
 ======
+
+{% for post in site.journals reversed %}
+  {% include archive-single.html %}
+{% endfor %}
