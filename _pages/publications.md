@@ -19,6 +19,7 @@ Conference Publications
 {% endfor %}
 
 
+---
 
 Journal Publications
 ======
