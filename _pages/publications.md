@@ -1,9 +1,3 @@
----
-layout: archive
-title: "Conference Publications"
-permalink: /publications/Journal
-author_profile: true
----
 
 ---
 layout: archive
