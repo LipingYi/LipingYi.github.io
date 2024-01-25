@@ -181,13 +181,16 @@ collections:
   publications:
     output: false
     permalink: /:collection/:path/
+  journals:
+    output: false
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
-
+  
 
 # Defaults
 defaults:
