@@ -16,3 +16,4 @@ author_profile: true
 {% endfor %}
 
 
+{% include journal.md %}
