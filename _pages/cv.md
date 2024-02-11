@@ -35,6 +35,7 @@ Service and Leadership
   * 2021: Association for the Advancement of Artificial Intelligence (AAAI'22), PC Member
 
 * Journal Services
+  * 2024: IEEE Transactions on Mobile Computing (TMC), Reviewer
   * 2023: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Reviewer
 
 Honors
