@@ -38,7 +38,6 @@ Service and Leadership
   * 2024: IEEE Transactions on Mobile Computing (TMC), Reviewer 
   * 2023: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Reviewer
 
-
 Honors
 ======
 * 2023: Second-Class Academic Scholarship, NKU
