@@ -22,6 +22,7 @@ Research and Industry Experience
 Service and Leadership
 ======
 * Conference Services
+  * 2024: ACM SIGKDD'24, Reviewer 
   * 2024: ACM MM'24, Reviewer 
   * 2024: FL@FM-TheWebConf'24 Workshop, PC Member
   * 2024: IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'24), PC Member
