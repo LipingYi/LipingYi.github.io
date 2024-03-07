@@ -8,3 +8,4 @@ venue: 'IEEE Transactions on Mobile Computing (TMC)'
 
 paperurl: ''
 ---
+**Liping Yi**, Xiaorong Shi, Nan Wang, Jinsong Zhang, Gang Wang, Xiaoguang Liu
