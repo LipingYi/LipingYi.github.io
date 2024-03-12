@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm Liping Yi, a PhD student in the College of Computer at Nankai University, working with Prof. Gang Wang. Prior to NKU, I received bachelor degree from Qingdao University of Science and Technology in 2019.
+I'm Liping Yi, a PhD student in the College of Computer at Nankai University, working with Prof. Gang Wang. 
+<!--Prior to NKU, I received bachelor degree from Qingdao University of Science and Technology in 2019.-->
 
 Research Interest
 ======
