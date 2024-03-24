@@ -51,7 +51,7 @@ Honors
 * 2021: Third-Class Academic Scholarship, NKU
 * 2020: Third-Class Academic Scholarship, NKU
 * 2019: Scholarships for new graduate students, NKU
-* 2018: China National Scholarship for undergraduate students, QUST
+<!-- * 2018: China National Scholarship for undergraduate students, QUST-->
   
 Awards
 ======
