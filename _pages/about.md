@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Liping Yi, a PhD student in the College of Computer at Nankai University, working with Prof. Gang Wang. I'm also a visiting scholar in the School of Computer Science and Engineering (SCSE) at Nanyang Technological University, working with Prof. Han Yu.
+I'm Liping Yi, a PhD student in the College of Computer at Nankai University, working with Prof. Gang Wang. I'm also a visiting scholar in the College of Computing and Data Science at Nanyang Technological University, working with Prof. Han Yu.
 <!--Prior to NKU, I received bachelor degree from Qingdao University of Science and Technology in 2019.-->
 
 Research Interest
