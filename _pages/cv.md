@@ -46,6 +46,7 @@ Service and Leadership
 
 Honors
 ======
+* 2024: Shiing-Shen Chern Scholarship for Academic Newcomers - High-Level Research Paper Award Program, NKU
 * 2023: Second-Class Academic Scholarship, NKU
 * 2023: Shiing-Shen Chern Scholarship for Academic Newcomers - High-Level Research Paper Award Program, NKU
 * 2023: SK Award for Outstanding Research in Artificial Intelligence, NKU
