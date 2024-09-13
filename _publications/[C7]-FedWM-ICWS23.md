@@ -2,7 +2,7 @@
 title: "FedWM: Federated Crowdsourcing Workforce Management Service for Productive Laziness"
 collection: publications
 date: 2023-07-02
-venue: 'Proc. of IEEE International Conference on Web Services (ICWS)'
+venue: 'Proc. of IEEE International Conference on Web Services (ICWS), CCF-B'
 paperurl: 'https://ieeexplore.ieee.org/document/10248239'
 ---
 Zhuan Shi, Zhenyu Yao, **Liping Yi**, Han Yu, Lan Zhang, Xiang-Yang Li
