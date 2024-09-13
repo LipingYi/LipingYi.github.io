@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/3-Plex-NPC2019
 
 date: 2019-08-24
-venue: 'Proc. of the 16th IFIP International Conference on Network and Parallel Computing (NPC)'
+venue: 'Proc. of the 16th IFIP International Conference on Network and Parallel Computing (NPC), CCF-C'
 loc: 'Hohhot, China'
 
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-30709-7_21'
