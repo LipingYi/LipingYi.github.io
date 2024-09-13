@@ -2,7 +2,7 @@
 title: "FFedCL: Fair Federated Learning with Contrastive Learning"
 collection: publications
 date: 2023-06-04
-venue: 'Proc. of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
+venue: 'Proc. of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), CCF-B'
 paperurl: 'https://ieeexplore.ieee.org/document/10095453'
 ---
 Xiaorong Shi, **Liping Yi**, Xiaoguang Liu, Gang Wang
