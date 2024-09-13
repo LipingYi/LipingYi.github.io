@@ -2,7 +2,7 @@
 title: "MemAU-Net: Memory-Enhanced Attention U-Net for Medical Image Forgery Localization"
 collection: publications
 date: 2023-06-18
-venue: 'Proc. of IEEE International Joint Conference on Neural Network (IJCNN)'
+venue: 'Proc. of IEEE International Joint Conference on Neural Network (IJCNN), CCF-C'
 paperurl: 'https://ieeexplore.ieee.org/document/10191370'
 ---
 Nan Wang, **Liping Yi**, Gang Wang, Xiaoguang Liu
