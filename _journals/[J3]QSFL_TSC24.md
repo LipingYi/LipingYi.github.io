@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/3-Plex-NPC2019
 
 date: 2024-09-05
-venue: 'IEEE Transactions on Services Computing (TSC)'
+venue: 'IEEE Transactions on Services Computing (TSC), CCF-A'
 
 paperurl: 'https://ieeexplore.ieee.org/document/10666282'
 ---
