@@ -22,6 +22,7 @@ Research and Industry Experience
 Service and Leadership
 ======
 * Conference Services
+  * 2024: WWW'25, Reviewer
   * 2024: ICLR'25, Reviewer
   * 2024: AAAI'25, PC Member 
   * 2024: ACM SIGKDD'25, Reviewer 
