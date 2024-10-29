@@ -8,4 +8,4 @@ venue: 'Frontiers of Computer Science (FCS), CCF-B'
 
 paperurl: ''
 ---
-Hui Sun, Huidong Ma, Feng Ling, Haonan Xie, Yongxia Sun, **Liping Yi**, Meng Yan*, Cheng Zhong, Xiaoguang Liu, Gang Wang*
+Hui Sun$^{\dagger}$, Huidong Ma$^{\dagger}$, Feng Ling, Haonan Xie, Yongxia Sun, **Liping Yi**, Meng Yan$^{\ast}$, Cheng Zhong, Xiaoguang Liu, Gang Wang$^{\ast}$
