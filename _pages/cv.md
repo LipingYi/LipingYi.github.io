@@ -44,6 +44,7 @@ Service and Leadership
   * 2021: Association for the Advancement of Artificial Intelligence (AAAI'22), PC Member
 
 * Journal Services
+  * 2024: ACM Transactions on Knowledge Discovery from Data (TKDD), Reviewer 
   * 2024: Neurocomputing, Reviewer 
   * 2024: IEEE Transactions on Green Communications and Networking (TGCN), Reviewer 
   * 2024: IEEE Transactions on Mobile Computing (TMC), Reviewer 
