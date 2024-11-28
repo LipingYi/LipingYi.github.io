@@ -22,6 +22,7 @@ Research and Industry Experience
 Service and Leadership
 ======
 * Conference Services
+  * 2024: ICME'25, Reviewer
   * 2024: WWW'25, Reviewer
   * 2024: AISTATS'25, Reviewer
   * 2024: ICLR'25, Reviewer
@@ -44,6 +45,7 @@ Service and Leadership
   * 2021: Association for the Advancement of Artificial Intelligence (AAAI'22), PC Member
 
 * Journal Services
+  * 2024: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Reviewer
   * 2024: ACM Transactions on Knowledge Discovery from Data (TKDD), Reviewer 
   * 2024: Neurocomputing, Reviewer 
   * 2024: IEEE Transactions on Green Communications and Networking (TGCN), Reviewer 
