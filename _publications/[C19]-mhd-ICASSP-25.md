@@ -2,7 +2,7 @@
 title: "Multi-source Data Lossless Compression via Parallel Expansion Mapping and xLSTM" 
 collection: publications 
 date: 2025-04-06
-venue: '2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)' 
+venue: '2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), CCF-B' 
 paperurl: '' 
 --- 
 
