@@ -1,7 +1,7 @@
 --- 
 title: " MSDZip: Universal Lossless Compression for Multi-source Data via Stepwise-parallel and Learning-based Prediction" 
 collection: publications 
-date: 2025-01-20
+date: 2025-04-28
 venue: 'The Web Conference (WWW’25), CCF-A' 
 
 
