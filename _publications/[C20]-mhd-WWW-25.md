@@ -7,5 +7,5 @@ venue: 'The Web Conference (WWW), CCF-A'
 
 paperurl: '' 
 --- 
-Huidong Ma$^{\dagger}$, Hui Sun$^{\dagger}$, Liping Yi, Yanfeng Ding, Xiaoguang Liu$^{\ast}$, Gang Wang$^{\ast}$
+Huidong Ma$^{\dagger}$, Hui Sun$^{\dagger}$, **Liping Yi**, Yanfeng Ding, Xiaoguang Liu$^{\ast}$, Gang Wang$^{\ast}$
 
