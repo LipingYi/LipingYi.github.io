@@ -49,8 +49,9 @@ Research Interest
 
 
 
-Education
+Experiences
 ======
++ 2025 – present: Tenure-Track Associate Professor, Tianjin University, Tianjin, China
 + 2021 – 2025: Ph.D., Nankai University, Tianjin, China
 + 2023 – 2024: Visiting Scholar, Nanyang Technological University, Singapore
 + 2019 – 2021: M.Sc., Nankai University, Tianjin, China
