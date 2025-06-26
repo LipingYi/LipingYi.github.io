@@ -20,9 +20,28 @@
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
 </div>-->
-<!-- 📍Visitor Map -->
+<!-- 📍Visitor Map 
 <div style="display: block; clear: both; text-align: center;">
   <a href="https://clustrmaps.com/site/1c6tr"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=0QXiULkgZtEJ-j54HwVaykKgFE65UEBmnwxeCMjo6B0&cl=ffffff" /></a>
   </a>
 </div>
 <div class="page__footer-copyright" style="text-align: center;">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+-->
+
+<footer>
+  <!-- 📍Visitor Map -->
+  <div style="margin-top: 2rem; text-align: center;">
+    <a href="https://clustrmaps.com/site/1c6tr" title="ClustrMaps">
+      <img src="//www.clustrmaps.com/map_v2.png?d=0QXiULkgZtEJ-j54HwVaykKgFE65UEBmnwxeCMjo6B0&cl=ffffff" alt="Visitor Map" />
+    </a>
+  </div>
+
+  <!-- copyright 居中 -->
+  <div class="page__footer-copyright" style="text-align: center;">
+    &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. 
+    {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }}
+    <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp;
+    <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, 
+    a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
+  </div>
+</footer>
