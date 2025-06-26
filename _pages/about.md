@@ -30,7 +30,8 @@ She has led multiple research projects, including the “CAST Young Talent Suppo
 主持多项科研项目，包括由中国科协资助的“中国科协青年人才托举工程博士专项计划”等。
 
 
-### 🎓 招生信息
+🎓 招生信息
+======
 ![blue text](https://img.shields.io/badge/长期招收研究生和本科生，欢迎对联邦学习与大模型多智能体系统感兴趣的同学与我联系！-blue)
 
 
