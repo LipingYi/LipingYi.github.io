@@ -4,7 +4,7 @@ title: "Members"
 permalink: /members/
 ---
 
-## 🎓 2025 Master Students
+## 2025 Master Students
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px;">
 
