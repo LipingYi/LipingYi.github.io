@@ -40,7 +40,7 @@ She has published academic papers in CCF-A tier journals and conferences such as
 Research Interest
 ======
 + Federated Learning: robustness to adversarial attacks, communication efficiency, personalization for boosting accuracy, and support for heterogeneous models
-+ Large-model Multi-agent
++ Large-scale Multi-agent Systems with Foundation Models
 
 
 Education
