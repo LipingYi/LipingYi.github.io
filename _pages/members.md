@@ -9,7 +9,7 @@ permalink: /members/
 <div style="display: flex; flex-wrap: wrap; gap: 30px;">
 
   <div style="text-align: center; width: 150px;">
-    <img src="/images/students/wangyixian.png" alt="王一贤" style="width: 100%;">
+    <img src="/images/students/wangyixian.jpeg" alt="王一贤" style="width: 100%;">
     <div style="margin-top: 10px; font-weight: bold;">Wang Yixian </br>王祎衔</div>
   </div>
 
