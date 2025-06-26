@@ -32,7 +32,7 @@ She has led multiple research projects, including the “CAST Young Talent Suppo
 
 🎓 招生信息
 ======
-**长期招收研究生和本科生，欢迎对联邦学习与大模型多智能体系统感兴趣的同学与我联系（lipingyi@tju.edu.cn）！**
+**长期招收研究生和本科生，欢迎对联邦学习与大模型多智能体系统感兴趣的同学与我联系！（lipingyi@tju.edu.cn）**
 
 
 <!--Research Interest
