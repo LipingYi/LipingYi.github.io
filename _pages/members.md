@@ -30,7 +30,7 @@ permalink: /members/
 <div style="display: flex; flex-wrap: wrap; gap: 30px;">
 
   <div style="text-align: center; width: 120px;">
-    <img src="/images/students/wangyixian.jpeg" alt="王祎衔" style="width: 100%;">
+    <img src="/images/students/wangyixian.png" alt="王祎衔" style="width: 100%;">
     <div style="margin-top: 10px; font-weight: bold;"> Student 1 <br>学生1<br>Ph.D. 2025</div>
   </div>
 
