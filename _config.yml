@@ -10,7 +10,7 @@ locale                   : "Tianjin, China"
 title                    : "Liping Yi"
 title_separator          : "-"
 name                     : &name "Liping Yi"
-description              : &description "Nankai University"
+description              : &description "Tianjin University"
 url                      : https://LipingYi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LipingYi/LipingYi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Liping Yi"
   avatar           : "ylp-formal.jpeg"
-  bio              : "Nankai University"
+  bio              : "Tianjin University"
   location         : "Tianjin, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
