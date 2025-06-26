@@ -35,10 +35,10 @@ She has led multiple research projects, including the “CAST Young Talent Suppo
 ![blue text](https://img.shields.io/badge/长期招收研究生和本科生，欢迎对联邦学习与大模型多智能体系统感兴趣的同学与我联系！-blue)
 
 
-Research Interest
+<!--Research Interest
 ======
 + Federated Learning: robustness to adversarial attacks, communication efficiency, personalization for boosting accuracy, and support for heterogeneous models
-+ Large-scale Multi-agent Systems with Foundation Models
++ Large-scale Multi-agent Systems with Foundation Models-->
   
 
 📢 News
@@ -49,7 +49,7 @@ Research Interest
 
 
 
-Experiences
+🧑‍💻 Experiences
 ======
 + 2025 – present: Tenure-Track Associate Professor, Tianjin University, Tianjin, China
 + 2021 – 2025: Ph.D., Nankai University, Tianjin, China
