@@ -4,9 +4,9 @@ title: "Members"
 permalink: /members/
 ---
 
-## 🎓 2025级硕士
+## 🎓 2025 Master Students
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
 
   <div style="text-align: center; width: 150px;">
     <img src="/images/students/wangyixian.png" alt="王一贤" style="width: 100%; border-radius: 50%;">
