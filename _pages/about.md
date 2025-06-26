@@ -32,7 +32,7 @@ She has led multiple research projects, including the “CAST Young Talent Suppo
 
 🎓 招生信息
 ======
-**长期招收研究生和本科生，欢迎对联邦学习与大模型多智能体系统感兴趣的同学与我联系！**![blue text](https://img.shields.io/badge/lipingyi@tju.edu.cn-blue)
+**长期招收研究生和本科生，欢迎对联邦学习与大模型多智能体系统感兴趣的同学与我联系（lipingyi@tju.edu.cn）！**
 
 
 <!--Research Interest
@@ -45,8 +45,8 @@ She has led multiple research projects, including the “CAST Young Talent Suppo
 ======
 + [2025-06] 📝 One paper accepted by ICCV 2025.
 + [2025-06] 🏫 Joined the Machine Learning and Data Mining Lab at Tianjin University.
-+ [2025-06] 🧑‍🎓 Received Ph.D. degree in Computer Science from Nankai University.
-
+<!--+ [2025-06] 🧑‍🎓 Received Ph.D. degree in Computer Science from Nankai University.
+-->
 
 
 🧑‍💻 Experiences
