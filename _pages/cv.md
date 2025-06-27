@@ -59,6 +59,7 @@ Service and Leadership
 
 Honors
 ======
+* 2025: Shiing-Shen Chern Scholarship for Academic Newcomers - High-Level Research Paper Award Program, NKU
 * 2024: China National Scholarship for PhD, NKU
 * 2024: First-Class Academic Scholarship, NKU
 * 2024: Shiing-Shen Chern Scholarship for Academic Newcomers - High-Level Research Paper Award Program, NKU
