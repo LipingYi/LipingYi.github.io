@@ -13,7 +13,7 @@ Prior to NKU, I received bachelor degree from Qingdao University of Science and 
 
 I'm Liping Yi, a Tenure-Track Associate Professor, Master's Supervisor at the College of Intelligence and Computing, Tianjin University. 
 I joined the [Machine Learning and Data Mining Laboratory](https://ml-dm-tju.pages.dev/) in June 2025, led by Prof. [Qinghua Hu](https://cic.tju.edu.cn/faculty/huqinghua/index.html).
-I received my Ph.D. in June 2025 from the College of Computer Science, Nankai University, as part of the [Nankai-Baidu Joint Laboratory](https://nbjl.nankai.edu.cn/), under the supervision of Prof. [Gang Wang](https://cc.nankai.edu.cn/2021/0323/c13619a548871/page.htm) and Prof. [Xiaoguang Liu](https://cc.nankai.edu.cn/2021/0323/c13619a548878/page.htm).
+I received my Ph.D. in June 2025 from the College of Computer Science, Nankai University, under the supervision of Prof. [Gang Wang](https://cc.nankai.edu.cn/2021/0323/c13619a548871/page.htm) and Prof. [Xiaoguang Liu](https://cc.nankai.edu.cn/2021/0323/c13619a548878/page.htm).
 From December 2023 to November 2024, I conducted a Ph.D. joint research program in the College of Computing and Data Science (CCDS) at Nanyang Technological University (NTU), Singapore, working with Prof. [Han Yu](https://federated-learning.org/han.yu/). 
 My research interests lie in federated learning and large-model multi-agent systems, with a focus on key challenges such as model heterogeneity, communication efficiency, personalized modeling, and system fairness.
 I have published over 20 research papers in top-tier international journals and conferences, including IEEE TSC, IEEE TMC, ICDE, NeurIPS, ICML, ICCV, AAAI, IJCAI, ACM MM and etc.
@@ -23,7 +23,7 @@ I have led multiple research projects, including the “CAST Young Talent Suppor
 
 衣丽萍，天津大学智能与计算学部副研究员，硕士生导师。
 2025年6月加入[机器学习与数据挖掘实验室](https://ml-dm-tju.pages.dev/)，团队负责人为[胡清华](https://cic.tju.edu.cn/faculty/huqinghua/index.html)教授。
-2025年6月于南开大学计算机学院[南开-百度联合实验室](https://nbjl.nankai.edu.cn/)获得博士学位，师从[王刚](https://cc.nankai.edu.cn/2021/0323/c13619a548871/page.htm)教授和[刘晓光](https://cc.nankai.edu.cn/2021/0323/c13619a548878/page.htm)教授。
+2025年6月于南开大学计算机学院获得博士学位，师从[王刚](https://cc.nankai.edu.cn/2021/0323/c13619a548871/page.htm)教授和[刘晓光](https://cc.nankai.edu.cn/2021/0323/c13619a548878/page.htm)教授。
 2023年12月至2024年11月期间，作为联合培养博士，在新加坡南洋理工大学（NTU）计算与数据科学学院（CCDS）开展学术研究，合作导师为[于涵](https://federated-learning.org/han.yu/)副教授。
 研究方向主要包括联邦学习与大模型多智能体系统，聚焦于模型异构、通信效率、个性化建模与系统公平性等关键问题。
 在IEEE TSC、IEEE TMC、ICDE、NeurIPS、ICML、ICCV、AAAI、IJCAI、ACM MM等国际期刊与会议上发表学术论文20余篇，受邀担任NeurIPS、ICML、CVPR、ICCV、AAAI等CCF-A类国际会议审稿人。
