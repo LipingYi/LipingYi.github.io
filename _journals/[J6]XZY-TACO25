@@ -1,0 +1,12 @@
+---
+title: "SampDedup: Sampling Prediction for Efficient Inline Data Deduplication on Non-volatile Memory"
+collection: publications
+permalink: /publication/3-Plex-NPC2019
+
+date: 2025-07-04
+venue: 'Transactions on Architecture and Code Optimization (TACO), CCF-A'
+
+paperurl: ''
+---
+
+Ziyue Xu, Yichen Li, Ranzhe Deng, **Liping Yi**, Yusen Li, Gang Wang$^{\ast}$, Xiaoguang Liu,
