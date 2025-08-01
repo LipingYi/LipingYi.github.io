@@ -22,6 +22,7 @@ Research and Industry Experience
 Service and Leadership
 ======
 * Conference Services
+  * 2026: AAAI'26, Reviewer
   * 2025: ICCV'25, Reviewer
   * 2025: NeurIPS'25, Reviewer
   * 2025: ICML'25, Reviewer
