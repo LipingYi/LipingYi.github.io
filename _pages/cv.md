@@ -50,6 +50,7 @@ Service and Leadership
   * 2021: Association for the Advancement of Artificial Intelligence (AAAI'22), PC Member
 
 * Journal Services
+  * 2025: ACM Computing Surveys, Reviewer
   * 2025: Knowledge-Based Systems, Reviewer
   * 2024: Scientific Reports, Reviewer
   * 2024: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Reviewer
