@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 <!--I'm Liping Yi, a PhD student in the College of Computer at Nankai University, working with Prof. Gang Wang.
 I have been a visiting scholar in the College of Computing and Data Science at Nanyang Technological University, working with Prof. Han Yu.
 Prior to NKU, I received bachelor degree from Qingdao University of Science and Technology in 2019.-->
@@ -34,9 +35,11 @@ I have led multiple research projects, including the “CAST Young Talent Suppor
 ======
 **长期招收智算学部、未来学院、新媒体学院的研究生和本科生，欢迎对联邦学习与大模型多智能体系统感兴趣的同学与我联系！（lipingyi@tju.edu.cn）**
 
->2025级硕士：剩余1个名额
+><mark>2025级硕士：剩余1个名额</mark>  
+><mark>2026级硕士：仍有名额</mark>  
 
->2026级硕士：仍有名额
+
+
 
 
 
