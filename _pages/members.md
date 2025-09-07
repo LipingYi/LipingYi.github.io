@@ -2,6 +2,7 @@
 layout: archive
 title: "Members"
 permalink: /members/
+published: false
 ---
 
 ## Master Students
