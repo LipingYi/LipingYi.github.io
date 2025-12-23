@@ -22,6 +22,8 @@ Research and Industry Experience
 Service and Leadership
 ======
 * Conference Services
+  * 2026: ICME'26, Area Chair
+  * 2026: ICML'26, Reviewer
   * 2026: [FL@FM-TheWebConf'26](https://federated-learning.org/fl@fm-www-2026/), Publication Co-Chair
   * 2026: CVPR'26, Reviewer
   * 2026: AAAI'26, Reviewer
