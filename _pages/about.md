@@ -1,4 +1,11 @@
-
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 <!--I'm Liping Yi, a PhD student in the College of Computer at Nankai University, working with Prof. Gang Wang.
 I have been a visiting scholar in the College of Computing and Data Science at Nanyang Technological University, working with Prof. Han Yu.
