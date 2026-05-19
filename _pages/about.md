@@ -37,8 +37,11 @@ I have led multiple research projects, including the “CAST Young Talent Suppor
 
 ![2027级硕士：剩余1个名额](https://img.shields.io/badge/2027%E7%BA%A7%E7%A1%95%E5%A3%AB-%E5%89%A9%E4%BD%991%E4%B8%AA%E5%90%8D%E9%A2%9D-brightgreen?style=flat)
 
-![2026级硕士：名额已满](https://img.shields.io/badge/2026%E7%BA%A7%E7%A1%95%E5%A3%AB-%E5%90%8D%E9%A2%9D%E5%B7%B2%E6%BB%A1-red?style=flat)
+![2026级硕士：新增1个名额，欢迎联系](https://img.shields.io/badge/2026%E7%BA%A7%E7%A1%95%E5%A3%AB-%E6%96%B0%E5%A2%9E1%E4%B8%AA%E5%90%8D%E9%A2%9D%EF%BC%8C%E6%AC%A2%E8%BF%8E%E8%81%94%E7%B3%BB-brightgreen?style=flat)
 
+<!--
+![2026级硕士：名额已满](https://img.shields.io/badge/2026%E7%BA%A7%E7%A1%95%E5%A3%AB-%E5%90%8D%E9%A2%9D%E5%B7%B2%E6%BB%A1-red?style=flat)
+-->
 
 
 <!--Research Interest
