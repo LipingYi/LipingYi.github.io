@@ -32,10 +32,12 @@ I have led multiple research projects, including the “CAST Young Talent Suppor
 
 🎓 招生信息
 ======
-**长期招收本科生，欢迎对联邦学习与大模型多智能体系统感兴趣的同学与我联系！（lipingyi@tju.edu.cn）**
+**长期招收本科生和研究生，欢迎对联邦学习与大模型多智能体系统感兴趣的同学与我联系！（lipingyi@tju.edu.cn）**
 
-
+<!--
 ![2027级硕士：剩余1个名额](https://img.shields.io/badge/2027%E7%BA%A7%E7%A1%95%E5%A3%AB-%E5%89%A9%E4%BD%991%E4%B8%AA%E5%90%8D%E9%A2%9D-brightgreen?style=flat)
+-->
+![2027级硕士推免：名额充足](https://img.shields.io/badge/2027%E7%BA%A7%E7%A1%95%E5%A3%AB%E6%8E%A8%E5%85%8D-%E5%90%8D%E9%A2%9D%E5%85%85%E8%B6%B3-brightgreen?style=flat)
 
 
 
